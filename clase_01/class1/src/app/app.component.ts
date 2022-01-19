@@ -1,7 +1,7 @@
 import { Component , OnInit} from '@angular/core';
 
 @Component({
-  selector: 'app-root',
+  selector: 'app-root', //con este nombre se puede usar este componente en otros html
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
