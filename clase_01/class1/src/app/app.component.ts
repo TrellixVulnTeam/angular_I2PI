@@ -9,7 +9,7 @@ export class AppComponent implements OnInit {
   title = 'class1';
 
   ngOnInit(){
-    let aux = "HOLA"
+    let aux:string = "HOLA"
     const name = "LUIS"
 
     aux = "HELLO"

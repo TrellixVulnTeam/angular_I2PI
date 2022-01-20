@@ -1,0 +1,10 @@
+{{title}}
+<br>
+{{data}}
+<br>
+<input type="text" [value]="title" (input) = "title = test.value" #test/>
+<br>
+<button (click)=verData()>Ver Data</button>
+<app-home></app-home>
+
+<router-outlet></router-outlet>
