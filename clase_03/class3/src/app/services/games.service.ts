@@ -47,3 +47,10 @@ export class GamesService {
     return this.items[index]
   }
 }
+
+
+
+https://jira.tools.rfsc.cl/browse/QA22-2174
+https://jira.tools.rfsc.cl/browse/QA22-2150
+https://jira.tools.rfsc.cl/browse/QA22-2150
+https://jira.tools.rfsc.cl/browse/QA22-2145
